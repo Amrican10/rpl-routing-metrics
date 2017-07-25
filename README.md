@@ -7,7 +7,7 @@
 * Author(s): Riccardo Monica, Pietro Gonizzi, University of Parma, Italy
 * Affiliation(s): Department of Information Engineering, University of Parma
 * License: none
-* Location of the code: https://github.com/pietrogonizzi/rpl-routing-metrics
+* Location of the code: https://github.com/pietrogonizzi/rpl-routing-metrics/tree/rmonica
 * Contiki version: 2.6
 * Intended CALIPSO scenario: Smart Parking, Smart Surveillance, Smart Toys
 * Intended platforms: Tmote Sky
